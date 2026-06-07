@@ -1,0 +1,75 @@
+name: Ghost Snapshot
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install tools
+        run: npm install @tryghost/content-api turndown
+
+      - name: Create Snapshot Script
+        run: |
+          cat << 'EOF' > snapshot.js
+          const fs = require('fs')
+          const GhostContentAPI = require('@tryghost/content-api')
+          const TurndownService = require('turndown')
+          
+          const api = new GhostContentAPI({
+            url: process.env.GHOST_URL,
+            key: process.env.GHOST_KEY,
+            version: 'v5.0'
+          })
+          
+          const turndownService = new TurndownService()
+          
+          async function createSnapshot() {
+            if (!fs.existsSync('posts')) fs.mkdirSync('posts')
+            if (!fs.existsSync('pages')) fs.mkdirSync('pages')
+            
+            const posts = await api.posts.browse({limit: 'all', formats: ['html']})
+            posts.forEach(post => {
+              if (!post.html) return
+              const md = turndownService.turndown(post.html)
+              const content = `---\ntitle: ${post.title}\nslug: ${post.slug}\n---\n\n${md}`
+              fs.writeFileSync(`posts/${post.slug}.md`, content)
+            })
+            
+            const pages = await api.pages.browse({limit: 'all', formats: ['html']})
+            pages.forEach(page => {
+              if (!page.html) return
+              const md = turndownService.turndown(page.html)
+              const content = `---\ntitle: ${page.title}\nslug: ${page.slug}\n---\n\n${md}`
+              fs.writeFileSync(`pages/${page.slug}.md`, content)
+            })
+          }
+          
+          createSnapshot().catch(console.error)
+          EOF
+
+      - name: Run Snapshot Script
+        env:
+          GHOST_URL: ${{ secrets.GHOST_URL }}
+          GHOST_KEY: ${{ secrets.GHOST_KEY }}
+        run: node snapshot.js
+
+      - name: Clean up tools
+        run: rm -rf node_modules package.json package-lock.json snapshot.js
+
+      - name: Save Snapshot to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated Ghost Snapshot"
