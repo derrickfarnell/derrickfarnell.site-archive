@@ -40,3 +40,10 @@ When referencing this article you should include the date of reading, as the con
 Article history
 
 Past versions of this article are available in the Internet Archive [here](https://web.archive.org/web/20260000000000*/https://www.derrickfarnell.site/what-is-belief/) – and, for previous locations, [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/articles/how-belief-works/what-is-belief), [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/how-belief-works/what-is-belief) and [here](https://web.archive.org/web/20251001000000*/https://www.derrickfarnell.site/how-belief-works/a-note-on-the-term-belief). There's also an archive of this article on GitHub [here](https://github.com/derrickfarnell/derrickfarnell.site-archive/commits/main/posts/what-is-belief.md).
+
+Subscribe
+---------
+
+ Submit .nc-loop-dots-4-24-icon-o{--animation-duration:0.8s} .nc-loop-dots-4-24-icon-o \*{opacity:.4;transform:scale(.75);animation:nc-loop-dots-4-anim var(--animation-duration) infinite} .nc-loop-dots-4-24-icon-o :nth-child(1){transform-origin:4px 12px;animation-delay:-.3s;animation-delay:calc(var(--animation-duration)/-2.666)} .nc-loop-dots-4-24-icon-o :nth-child(2){transform-origin:12px 12px;animation-delay:-.15s;animation-delay:calc(var(--animation-duration)/-5.333)} .nc-loop-dots-4-24-icon-o :nth-child(3){transform-origin:20px 12px} @keyframes nc-loop-dots-4-anim{0%,100%{opacity:.4;transform:scale(.75)}50%{opacity:1;transform:scale(1)}}
+
+Email sent! Check your inbox to complete your signup.
