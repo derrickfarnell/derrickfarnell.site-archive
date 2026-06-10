@@ -8,3 +8,5 @@ slug: about
 Hello, I'm Derrick Farnell and I'm an independent researcher and a writer, mainly interested in how the mind works. I live in Edinburgh, Scotland.
 
 [Read my articles](https://www.derrickfarnell.site/articles/)
+
+test
