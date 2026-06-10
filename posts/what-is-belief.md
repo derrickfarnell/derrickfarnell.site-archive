@@ -21,7 +21,7 @@ But the subject of _How Belief Works_ is our belief of any kind of claim, howeve
 
 So what _is_ the definition of belief in the sense of the psychological state? Given that belief involves a claim, the answer can seem as obvious as it is simple: considering a claim to be true. This definition can seem irrefutable, but it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
 
-/\* --- GHOST NATIVE OVERRIDES --- \*/ .gh-navigation .gh-button-share { display: none !important; } #ghost-comments-root, .gh-comments, .gh-comments-wrapper { margin-top: 0 !important; padding-top: 0 !important; } .kg-card:has(.custom-footer-wrapper) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .gh-footer-signup, .footer-cta, .gh-readmore, .gh-subscribe, .gh-read-next, .gh-navigation, .gh-post-footer { display: none !important; height: 0 !important; margin: 0 !important; padding: 0 !important; } .gh-canvas, .gh-article, .gh-main, main { padding-bottom: 0 !important; margin-bottom: 0 !important; } footer.gh-foot, .site-footer { padding-top: 1.5em !important; margin-top: 0 !important; } /\* --- CUSTOM FOOTER STYLES --- \*/ .cf-wrapper { font-family: inherit; } /\* Block 1: Share Button \*/ .cf-share-block { text-align: center; margin-top: 1.5em; margin-bottom: 2.5em; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; } /\* Block 2: Next Article \*/ .cf-next-block { font-size: 1.4em; margin-bottom: 1.0em; } .cf-next-label { margin-bottom: 0; line-height: 1.2; } .cf-next-link { margin-bottom: 0; margin-top: 0.4em; } /\* Block 3: Dictionary Entries \*/ .cf-entries-block { line-height: 1.5; padding-bottom: 3em; margin-top: 3.5em; } .cf-entry-title { font-size: 1.4em; margin-bottom: 0.3em; line-height: 1.2; } .cf-entry-text { margin-bottom: 1.5em; } .cf-entry-text-last { margin-bottom: 0; }
+/\* --- GHOST NATIVE OVERRIDES --- \*/ .gh-navigation .gh-button-share { display: none !important; } .kg-signup-card { margin-bottom: 2em !important; /\* Adjust this value to get the right amount of space \*/ } /\* 1. Increases the space above the entire comments section \*/ .gh-comments, .gh-comments-wrapper { margin-top: 3em !important; /\* Adjust this to move the whole section \*/ padding-top: 0 !important; } /\* 2. Pulls the comment field tight against the heading \*/ #ghost-comments-root { margin-top: 0 !important; padding-top: 0 !important; } .kg-card:has(.custom-footer-wrapper) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .gh-footer-signup, .footer-cta, .gh-readmore, .gh-subscribe, .gh-read-next, .gh-navigation, .gh-post-footer { display: none !important; height: 0 !important; margin: 0 !important; padding: 0 !important; } .gh-canvas, .gh-article, .gh-main, main { padding-bottom: 0 !important; margin-bottom: 0 !important; } footer.gh-foot, .site-footer { padding-top: 1.5em !important; margin-top: 0 !important; } /\* --- CUSTOM FOOTER STYLES --- \*/ .cf-wrapper { font-family: inherit; } /\* Block 1: Share Button \*/ .cf-share-block { text-align: center; margin-top: 1.5em; margin-bottom: 2.5em; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; } /\* Block 2: Next Article \*/ .cf-next-block { font-size: 1.4em; margin-bottom: 1.0em; } .cf-next-label { margin-bottom: 0; line-height: 1.2; } .cf-next-link { margin-bottom: 0; margin-top: 0.4em; } /\* Block 3: Dictionary Entries \*/ .cf-entries-block { line-height: 1.5; padding-bottom: 1em; margin-top: 3.5em; } .cf-entry-title { font-size: 1.4em; margin-bottom: 0.3em; line-height: 1.2; } .cf-entry-text { margin-bottom: 1.5em; } .cf-entry-text-last { margin-bottom: 0; }
 
 [Share](#/share)
 
@@ -29,13 +29,13 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 [How Belief Works](https://www.derrickfarnell.site/how-belief-works/)
 
-[Feedback](https://www.derrickfarnell.site/contact-me/)
+Feeback
 
-I love feedback, however minor – whether about my writing, its content or the website.
+I love feedback, however minor – whether about my writing, its content or the website. You can either comment below or [email me](https://www.derrickfarnell.site/contact-me/).
 
 Referencing this article
 
-When referencing this article you should include the date of reading, as the content can change. Also, you can [save the current version in the Internet Archive](https://web.archive.org/save) and then link to the archived copy.
+If referencing this article you should include the date of reading, as the content can change. Also, you can [save the current version in the Internet Archive](https://web.archive.org/save) and then link to the archived copy.
 
 Article history
 
