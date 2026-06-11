@@ -13,19 +13,17 @@ And just as the truth about the Sun and the Earth’s relationship had profound 
 
 This ongoing series reveals the reality of how belief works and explores its implications.
 
-/\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 2em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; font-family: inherit; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; }
+/\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 2em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; font-family: inherit; }
 
 [Share](#/share)
 
-[What Is Belief?](https://www.derrickfarnell.site/what-is-belief/)
+.series-list { list-style: none !important; padding-left: 0 !important; /\* Targets ONLY the bottom margin, preventing the top from overlapping the share button \*/ margin-bottom: -1em !important; font-size: 1.4em; line-height: 1.5; } .series-list li { margin-bottom: 0.5em; } .series-list .published-link { margin-bottom: 1.5em; } .series-list .forthcoming-label { /\* Restored your exact calculation \*/ font-size: calc(1em / 1.4); line-height: 1.7; color: #000000; display: block; } .series-list li:last-child { margin-bottom: 0; }
 
-Forthcoming:
-
-How Beliefs Form – Part 1
-
-How Beliefs Form – Part 2
-
-The Impossibility of Degrees of Belief
+*   [What Is Belief?](https://www.derrickfarnell.site/what-is-belief/)
+*   Forthcoming:
+*   How Beliefs Form – Part 1
+*   How Beliefs Form – Part 2
+*   The Impossibility of Degrees of Belief
 
 _Previously published versions of these articles are available on a live snapshot of this site,_ [_here_](https://sites.google.com/view/derrickfarnell/articles/how-belief-works)_. Although I think their core logic is sound, I decided that the form of the arguments presenting that logic needs improvement, along with the writing. The standalone article \[Article X\] will eventually be incorporated into this series._
 
