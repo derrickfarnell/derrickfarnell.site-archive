@@ -31,7 +31,7 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 ### Feedback
 
-I love feedback, however minor – whether about my writing, its content or the website. You can either comment below or [email me](https://www.derrickfarnell.site/contact-me/).
+I view even my published writings as works in progress, and welcome feedback, _however minor_, about both the writing and its content. And the same applies to the website. You can comment below or [email me](https://www.derrickfarnell.site/contact-me/).
 
 ### Referencing this article
 
