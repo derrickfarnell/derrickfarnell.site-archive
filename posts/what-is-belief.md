@@ -31,7 +31,7 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 ### Feedback
 
-I view even my published writings as works in progress, and welcome feedback, _however minor_, about both the writing and its content. I also welcome feedback about the website. You can comment below or [email me](https://www.derrickfarnell.site/contact-me/).
+I view my published writings as still works in progress, and welcome feedback about both the writing and its content, _however minor_. I also welcome feedback about the website. You can comment below or [email me](https://www.derrickfarnell.site/contact-me/).
 
 ### Referencing this article
 
@@ -39,7 +39,7 @@ If referencing this article you should include the date of reading, as the conte
 
 ### Article history
 
-Past versions of this article are available in the Internet Archive [here](https://web.archive.org/web/20260000000000*/https://www.derrickfarnell.site/what-is-belief/) – and, for previous locations, [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/articles/how-belief-works/what-is-belief), [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/how-belief-works/what-is-belief) and [here](https://web.archive.org/web/20251001000000*/https://www.derrickfarnell.site/how-belief-works/a-note-on-the-term-belief). There's also an archive of this article on GitHub [here](https://github.com/derrickfarnell/derrickfarnell.site-archive/commits/main/posts/what-is-belief.md).
+Past versions of this article are available in the Internet Archive [here](https://web.archive.org/web/20260000000000*/https://www.derrickfarnell.site/what-is-belief/) – and, for previous locations, [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/articles/how-belief-works/what-is-belief), [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/how-belief-works/what-is-belief) and [here](https://web.archive.org/web/20251001000000*/https://www.derrickfarnell.site/how-belief-works/a-note-on-the-term-belief). There's also [an archive of this article on GitHub](https://github.com/derrickfarnell/derrickfarnell.site-archive/commits/main/posts/what-is-belief.md).
 
 Subscribe
 ---------
