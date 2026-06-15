@@ -25,7 +25,7 @@ This ongoing series reveals the reality of how belief works and explores its imp
 *   How Beliefs Form – Part 2
 *   The Impossibility of Degrees of Belief
 
-_Previously published versions of these articles are available on a live snapshot of this site,_ [_here_](https://sites.google.com/view/derrickfarnell/articles/how-belief-works)_. Although I think their core logic is sound, I decided that the form of the arguments presenting that logic needs improvement, along with the writing. The standalone article \[Article X\] will eventually be incorporated into this series._
+_Previously published versions of these articles are available on_ [_a live snapshot of this site_](https://sites.google.com/view/derrickfarnell/articles/how-belief-works)_. Although I think the core logic in these versions is sound, I decided that the form of the arguments presenting that logic needs improvement, along with the writing. The standalone article \[Article X\] will eventually be incorporated into this series._
 
 Subscribe
 ---------
