@@ -7,9 +7,9 @@ slug: how-belief-works
 
 Our capacity to form beliefs, from the profound to the mundane, is fundamental to human psychology, and therefore our lives. However, the prevailing understanding of how belief works is wrong – and not just a bit wrong but the-Sun-goes-around-the-Earth wrong.
 
-And just as the truth about the Sun and the Earth’s relationship had profound implications for our understanding of the cosmos, the truth about how belief works has profound implications for our understanding of human psychology, and therefore for our lives. But this truth is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
+And just as the reality of the Sun and the Earth’s relationship had profound implications for our understanding of the cosmos, the reality of how belief works has profound implications for our understanding of human psychology, and therefore for our lives. But this truth is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
 
-This ongoing series reveals the reality of how belief works and explores its implications.
+This ongoing series reveals this reality and explores its implications.
 
 /\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 2em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; font-family: inherit; }
 
