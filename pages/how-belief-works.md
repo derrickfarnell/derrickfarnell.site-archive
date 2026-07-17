@@ -3,8 +3,6 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
-### An ongoing series on the psychology of belief
-
 'Belief … is the central problem in the analysis of mind.' – philosopher Bertrand Russell
 
 Our capacity to form beliefs, from the profound to the mundane, is fundamental to human psychology, and therefore our lives. However, the prevailing understanding of how belief works is wrong – and not just a bit wrong but the-Sun-goes-around-the-Earth wrong.
