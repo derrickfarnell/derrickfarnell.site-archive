@@ -18,15 +18,14 @@ This ongoing series reveals the truth about how belief works and explores its im
 .series-list { list-style: none !important; padding-left: 0 !important; /\* Targets ONLY the bottom margin, preventing the top from overlapping the share button \*/ margin-bottom: -1em !important; font-size: 1.4em; line-height: 1.5; } .series-list li { margin-bottom: 0.5em; } .series-list .published-link { margin-bottom: 1.5em; } .series-list .forthcoming-label { /\* Restored your exact calculation \*/ font-size: calc(1em / 1.4); line-height: 1.7; color: #000000; display: block; } .series-list li:last-child { margin-bottom: 0; }
 
 *   [What Is Belief?](https://www.derrickfarnell.site/what-is-belief/)
-*   Next:
+*   Next three articles:
 *   How Beliefs Form – Part 1
 *   How Beliefs Form – Part 2
 *   The Impossibility of Degrees of Belief
 
-_Previously published versions of these articles are available on_ [_an archived version of this site_](https://sites.google.com/view/derrickfarnell/articles/how-belief-works)_. Although I think the core logic in these versions is sound, I decided that the form of the arguments presenting that logic needs improvement, along with the writing. The standalone article \[Article X\] will eventually be incorporated into this series._
+_Previously published versions of these three articles are available on_ [_a live archived snapshot of this site_](https://sites.google.com/view/derrickfarnell/articles/how-belief-works)_. Although I think the core logic in these versions is sound, I decided that the form of the arguments presenting that logic needs improvement, along with the writing. The standalone article \[Article X\] will eventually be incorporated into this series._
 
 *   change notice on snapshot?
-*   add notice about other articles to come?
 
 Subscribe
 ---------
