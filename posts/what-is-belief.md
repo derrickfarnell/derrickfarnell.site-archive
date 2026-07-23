@@ -3,19 +3,7 @@ title: What Is Belief?
 slug: what-is-belief
 ---
 
-_This article is part of the ongoing series How Belief Works, which is best read in order._
-
-#### How Belief Works
-
-[series introduction](https://www.derrickfarnell.site/how-belief-works/)
-
-What Is Belief?
-
-How Beliefs Form – Part 1 (forthcoming)
-
-How Beliefs Form – Part 2 (forthcoming)
-
-The Impossibility of Degrees of Belief (forthcoming)
+_This article is the first part of the ongoing series How Belief Works – see_ [_the series introduction_](https://www.derrickfarnell.site/how-belief-works/)_._
 
 We all know what it means to believe something, from the significant, such as the belief that humans are apes, to the mundane, such as the belief that David is vegetarian. Indeed, belief is one of the most basic concepts of human psychology. Yet it's also one of those everyday concepts that can be surprisingly difficult to define, like art or happiness.
 
