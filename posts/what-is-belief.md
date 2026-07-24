@@ -7,7 +7,7 @@ _This article is part of the ongoing series_ [_How Belief Works_](https://www.de
 
 We all know what it means to believe something, from the significant, such as the belief that humans are apes, to the mundane, such as the belief that David is vegetarian. Indeed, belief is one of the most basic concepts of human psychology. Yet it's also one of those everyday concepts that can be surprisingly difficult to define, like art or happiness.
 
-Belief is a psychological state involving a claim. For example, we may believe that _Humans are apes_ or that _David is vegetarian_.
+Belief is a psychological state involving a claim. In the above examples it's believed that _humans are apes_ and that _David is vegetarian_.
 
 Although a claim is asserted by a sentence, it hasn't necessarily been asserted by a _person_. For example, upon seeing it's raining, we can form the belief _It's raining_ without anyone asserting this. So to say that belief involves a claim isn't to say that it involves something asserted by someone.
 
