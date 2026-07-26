@@ -17,7 +17,7 @@ This ongoing series reveals the truth about how belief works and explores its im
 
 .series-list { list-style: none !important; padding-left: 0 !important; /\* Targets ONLY the bottom margin, preventing the top from overlapping the share button \*/ margin-bottom: -1em !important; font-size: 1.4em; line-height: 1.5; } .series-list li { margin-bottom: 0.5em; } .series-list .published-link { margin-bottom: 1.5em; } .series-list .forthcoming-label { /\* Restored your exact calculation \*/ font-size: calc(1em / 1.4); line-height: 1.7; color: #000000; display: block; } .series-list li:last-child { margin-bottom: 0; }
 
-*   [What Is Belief?](https://www.derrickfarnell.site/what-is-belief/)
+*   [On Defining Belief](https://www.derrickfarnell.site/on-defining-belief/)
 *   Next three articles:
 *   How Beliefs Form – Part 1
 *   How Beliefs Form – Part 2
