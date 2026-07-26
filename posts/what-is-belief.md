@@ -13,13 +13,13 @@ We usually think of a claim as something expressed by someone, whether it's spok
 
 Note that the term _belief_ can refer to either the psychological state or the believed claim. That is, it can refer to either believing something or something believed. In the first sense, my belief _There's no milk in the fridge_ is a different thing from someone else's belief, regarding the same fridge, _There's no milk in the fridge,_ given that they're separate psychological states existing in different heads. But in the second sense they’re the same thing: the believed claim _There's no milk in the fridge_.
 
-So the term _mundane belief_ can refer to either belief of a mundane claim or a mundane claim that's believed – and likewise for the terms _significant belief_, _true belief_ and _false belief_.
+So the term _mundane belief_ can refer to either believing a mundane claim or a mundane claim that's believed – and likewise for the terms _significant belief_, _true belief_ and _false belief_.
 
-We actually often use the term _belief_ by itself to specifically mean a significant claim that's believed, whether moral, political, religious, historical, philosophical or scientific. For example, when we refer to defending our beliefs, we're referring to defending particular significant claims we believe.
+We often use the term _belief_ by itself to refer to a significant claim that's believed, whether moral, political, religious, historical, philosophical or scientific. For example, when we refer to defending our beliefs, we're referring to defending particular significant claims we believe.
 
-But the subject of _How Belief Works_ is our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs that I’m in my flat, that I'm sitting on a chair at my desk, that I'm typing these words, that it's Tuesday morning, that it’s sunny outside, and that I went for a hike along a river yesterday.
+This series concerns our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs that I’m in my flat, that I'm sitting on a chair at my desk, that I'm typing these words, that it's Tuesday morning, that it’s sunny outside, and that I went for a hike along a river yesterday.
 
-So what _is_ the definition of belief in the sense of the psychological state? Given that belief involves a claim, the answer can seem as obvious as it is simple: considering a claim to be true. This definition can seem irrefutable, but it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
+Given that the psychological state of belief involves a claim, one potential definition might seem as obvious as it is simple: considering a claim to be true. This definition can seem irrefutable, but it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
 
 [Share](#/share)
 
