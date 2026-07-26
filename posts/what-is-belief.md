@@ -15,7 +15,7 @@ Note that the term _belief_ can refer to either the psychological state or the b
 
 So the term _mundane belief_ can refer to either believing a mundane claim or a mundane claim that's believed – and likewise for the terms _significant belief_, _true belief_ and _false belief_.
 
-We often use the term _belief_ by itself to refer to a significant claim that's believed, whether moral, political, religious, historical, philosophical or scientific. For example, when we refer to defending our beliefs, we're referring to defending particular significant claims we believe.
+Also, we often use the term _belief_ by itself to refer to a significant claim that's believed, whether moral, political, religious, historical, philosophical or scientific. For example, when we refer to defending our beliefs, we're referring to defending particular significant claims we believe.
 
 This series concerns our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs that I’m in my flat, that I'm sitting on a chair at my desk, that I'm typing these words, that it's Tuesday morning, that it’s sunny outside, and that I went for a hike along a river yesterday.
 
