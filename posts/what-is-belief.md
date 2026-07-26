@@ -25,6 +25,10 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 [How Belief Works](https://www.derrickfarnell.site/how-belief-works/)
 
+### Support my work
+
+My writings will always be free and ad-free. Please consider making a [one-time or monthly donation](https://www.derrickfarnell.site/support-my-work) of your choice to support my work.
+
 ### Feedback
 
 I view my published writings as still works in progress, and welcome feedback about both the writing and its content, _however minor_. I also welcome feedback about the website. You can comment below or [email me](https://www.derrickfarnell.site/contact-me/).
