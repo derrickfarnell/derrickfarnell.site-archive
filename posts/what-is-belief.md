@@ -5,11 +5,11 @@ slug: what-is-belief
 
 _This article is part of the ongoing series_ [_How Belief Works_](https://www.derrickfarnell.site/how-belief-works/)_, which is best read in order._
 
-We all know what it means to believe something, from the significant, such as the belief that humans are apes, to the mundane, such as the belief that David is vegetarian. Indeed, belief is one of the most basic concepts of human psychology. Yet it's also one of those everyday concepts that can be surprisingly difficult to define, like art or happiness.
+We all know what it means to believe something, from the significant, such as the belief that humans are apes, to the mundane, such as the belief that there's no milk in the fridge. Indeed, belief is one of the most basic concepts of human psychology. Yet it's also one of those everyday concepts that can be surprisingly difficult to define, like art or happiness.
 
-Belief is a psychological state involving a claim. In the above examples it's believed that _humans are apes_ and that _David is vegetarian_.
+Belief is a psychological state involving a claim. In the above examples it's believed that _humans are apes_ and that _there's no milk in the fridge_.
 
-Although a claim is asserted by a sentence, it hasn't necessarily been asserted by a _person_. For example, upon seeing it's raining, we can form the belief _It's raining_ without anyone asserting this. So to say that belief involves a claim isn't to say that it involves something asserted by someone.
+We usually think of a claim as something _claimed_ by someone, whether spoken or written. However, a believed claim hasn't necessarily been claimed by anyone. Upon looking inside the fridge, we can form the belief _There's no milk in the fridge_ without anyone, including ourselves, claiming on this occasion that there's no milk in the fridge.
 
 Also, the term _belief_ can refer to either the psychological state or simply the believed claim. That is, it can refer to either believing something or something believed. In the first sense, my belief that David is vegetarian, and someone else's identical belief, are separate psychological states existing in different heads. But in the second sense they’re the same thing: the believed claim _David is vegetarian_.
 
