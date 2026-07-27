@@ -23,6 +23,8 @@ This beautifully simple but powerful theory, so often misunderstood and misrepre
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
 
+[Share](#/share)
+
 ### Support my work
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider supporting my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/support-my-work) of your choice.

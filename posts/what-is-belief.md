@@ -27,7 +27,9 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 ### Support my work
 
-My writings will always be free and ad-free. Please consider making a [one-time or monthly donation](https://www.derrickfarnell.site/support-my-work) of your choice to support my work.
+My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider supporting my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/support-my-work) of your choice.
+
+You can also support my work just by [sharing this article](#/share).
 
 ### Feedback
 
