@@ -17,7 +17,7 @@ So the term _mundane belief_ can refer to either believing a mundane claim or a 
 
 This series concerns our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs that I’m in my flat, that I'm sitting on a chair at my desk, that I'm typing these words, that it's Tuesday morning, that it’s sunny outside, and that I went for a hike along a river yesterday.
 
-But what's the _definition_ of the psychological state of belief? Given that this state involves a claim, one potential definition can seem as obvious as it is simple: considering a claim to be true. But although this definition can seem irrefutable, it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
+Given that the psychological state of belief involves a claim, one potential definition can seem as obvious as it is simple: considering a claim to be true. But although this definition can seem irrefutable, it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
 
 [Share](#/share)
 
@@ -27,7 +27,7 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 ### Support my work
 
-My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider supporting my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
+My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
 You can also support my work just by [sharing this article](#/share).
 
