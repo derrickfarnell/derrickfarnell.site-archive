@@ -7,7 +7,7 @@ _This article is part of the ongoing series_ [_How Belief Works_](https://www.de
 
 We all know what it means to believe something, from the significant, such as the belief that humans are apes, to the mundane, such as the belief that there's no milk in the fridge. Indeed, belief is one of the most basic concepts of human psychology. Yet it's also one of those everyday concepts that can be surprisingly difficult to define, like art or happiness.
 
-Belief is a psychological state involving a claim. In the above examples it's believed that _humans are apes_ and that _there's no milk in the fridge_.
+Any attempt must include that belief is a psychological state involving a claim. In the above examples it's believed that _humans are apes_ and that _there's no milk in the fridge_.
 
 We usually think of a claim as something expressed by someone, whether it's spoken or written. However, a believed claim hasn't necessarily been expressed by anyone. Upon looking inside the fridge, we can form the belief that there's no milk in the fridge without anyone, including ourselves, _expressing_ on this occasion that there's no milk in the fridge.
 
@@ -17,7 +17,7 @@ So the term _mundane belief_ can refer to either believing a mundane claim or a 
 
 This series concerns our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs that I’m in my flat, that I'm sitting on a chair at my desk, that I'm typing these words, that it's Tuesday morning, that it’s sunny outside, and that I went for a hike along a river yesterday.
 
-Given that the psychological state of belief involves a claim, one potential definition can seem as obvious as it is simple: considering a claim to be true. But although this definition can seem irrefutable, it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
+Given that the psychological state of belief involves a claim, the following definition can seem as obvious as it is simple: considering a claim to be true. But although this definition can seem irrefutable, it's fatally logically flawed – as I’ll explain in the next article, on how beliefs form.
 
 [Share](#/share)
 
