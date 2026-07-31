@@ -11,7 +11,7 @@ Charles Darwin's theory of evolution by natural selection, published in 1859, ex
 
 _Within a species there's always slight random variation in the hereditary traits of its members, and given the competition to survive and reproduce, those variations that happen to be most conducive to doing so will naturally tend to become widespread in the species._
 
-So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations, which become established in the species. The variation - the fuel of this process - is ever-present due to the continuous occurrence of random gene mutations. These have several causes, including gene copying errors during cell division.
+So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations, which become widespread in the species. And the continuous occurrence of random gene mutations means that the variation – the fuel of this process – is ever-present. These mutations have several causes, including gene copying errors.
 
 When two populations of a single species become separated - perhaps by a mountain range or an ocean, or through migration - and face different environments, natural selection leads them to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
 
