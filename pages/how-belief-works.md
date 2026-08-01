@@ -5,9 +5,9 @@ slug: how-belief-works
 
 'Belief … is the central problem in the analysis of mind.' – philosopher Bertrand Russell
 
-Belief is fundamental to human psychology, and therefore our lives. However, the prevailing understanding of how belief works is wrong – and not just a bit wrong but the-Sun-goes-around-the-Earth wrong.
+Belief is fundamental to human psychology, and therefore to our lives. However, the prevailing understanding of how belief works is wrong – and not just a bit wrong, but the-Sun-goes-around-the-Earth wrong.
 
-And just as the reality of the Sun and the Earth’s relationship had profound implications for our understanding of the cosmos, the reality of how belief works has profound implications for our understanding of the human mind. But this reality is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
+And just as the reality of the relationship between the Sun and the Earth had profound implications for our understanding of the cosmos, the reality of how belief works has profound implications for our understanding of the human mind. But this reality is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
 
 This ongoing series reveals the truth about how belief works and explores its implications.
 
