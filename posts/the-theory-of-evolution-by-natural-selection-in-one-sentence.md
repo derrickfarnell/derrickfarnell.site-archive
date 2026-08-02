@@ -37,7 +37,7 @@ I view my published writings as still works in progress, and welcome feedback ab
 
 ### Referencing this article
 
-If referencing this article you should include the date of reading, as the content can change. Also, you can [save the current version in the Internet Archive](https://web.archive.org/save) and then link to the archived copy.
+If referencing this article, you should include the date of reading, as the content can change. Also, you can [save the current version in the Internet Archive](https://web.archive.org/save) and then link to the archived copy.
 
 ### Article history
 
