@@ -3,7 +3,7 @@ title: The Theory of Evolution by Natural Selection in One Sentence
 slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 ---
 
-![Black and white photo of Charles Darwin](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/07/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
+![Sepia photo of Charles Darwin](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/07/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
 Charles Darwin (1809–1882)
 
@@ -11,9 +11,9 @@ Charles Darwin's theory of evolution by natural selection, published in 1859, ex
 
 _Within a species there's always slight random variation in the hereditary traits of its members, and given the competition to survive and reproduce, those variations that happen to be most conducive to doing so will naturally tend to become widespread in the species._
 
-So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations, which become widespread in the species. And the continuous occurrence of random gene mutations means that variation – the fuel of this process – is ever-present. These mutations have several causes, including gene copying errors.
+So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations. And the continuous occurrence of random gene mutations means that random variation – the fuel of this process – is ever-present. These mutations have several causes, including gene copying errors.
 
-Which variations are most conducive to survival and reproduction is relative to the physical environment in which the members of a species are living. So when two populations of a single species become separated – perhaps by a mountain range or an ocean, or through migration – and face different environments, natural selection leads them to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
+Which variations are most conducive to survival and reproduction is relative to the environment in which the members of a species are living. So when two populations of the same species become separated – perhaps by a mountain range or an ocean, or through migration – and face different environments, natural selection leads them to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
 
 Thus, the steady accumulation of innumerable small changes over billions of years has led to the extraordinary complexity and diversity of today's plants and animals.
 
