@@ -13,7 +13,7 @@ _Within a species there's always slight random variation in the hereditary trait
 
 So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations. And the continuous occurrence of random gene mutations means that random variation – the fuel of this process – is ever-present. These mutations have several causes, including gene copying errors.
 
-Which variations are most conducive to survival and reproduction is relative to the environment in which the members of a species are living. So when two populations of the same species become separated – perhaps by a mountain range or an ocean, or through migration – and face different environments, natural selection leads them to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
+How conducive a variation is to survival and reproduction depends on the environment in which the members of the species are living. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
 
 Thus, the steady accumulation of innumerable small changes over billions of years has led to the extraordinary complexity and diversity of today's plants and animals.
 
@@ -45,7 +45,7 @@ Past versions of this article are available in the Internet Archive [here](https
 
 ### Acknowledgments
 
-This article was inspired by the book [_The Moral Animal_](https://www.google.co.uk/books/edition/The_Moral_Animal/MuI_DVZ1Xo8C?hl=en&gbpv=0&kptab=overview) by Robert Wright, which presents in chapter 1 the theory of evolution by natural selection in one sentence. My presentation of the theory in one sentence was based on Wright’s.
+This article was inspired by the book [_The Moral Animal_](https://www.google.co.uk/books/edition/The_Moral_Animal/MuI_DVZ1Xo8C?hl=en&gbpv=0&kptab=overview) by Robert Wright, which presents the theory of evolution by natural selection in one sentence in chapter 1. My presentation of the theory in one sentence was based on Wright’s.
 
 My understanding of the theory of evolution by natural selection comes mainly from the books [_The Selfish Gene_](https://www.google.co.uk/books/edition/The_Selfish_Gene/WkHO9HI7koEC?hl=en&gbpv=0) and [_The Blind Watchmaker_](https://www.google.co.uk/books/edition/The_Blind_Watchmaker/zHc9PgAACAAJ?hl=en), both by Richard Dawkins.
 
