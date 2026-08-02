@@ -3,9 +3,10 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
-'Belief … is the central problem in the analysis of mind.' – philosopher Bertrand Russell
+'Belief … is the central problem in the analysis of mind.'  
+– philosopher Bertrand Russell
 
-The prevailing understanding of how belief works is wrong – and not just a bit wrong, but the-Sun-goes-around-the-Earth wrong.
+The prevailing understanding of how belief works is wrong – and not just a bit wrong, but the-Sun-goes-around-the-Earth wrong
 
 And just as the reality of the relationship between the Sun and the Earth had profound implications for our understanding of the cosmos, the reality of how belief works has profound implications for our understanding of the human mind. But this reality is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
 
@@ -13,9 +14,9 @@ This ongoing series reveals the truth about how belief works and explores its im
 
 /\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 2em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; font-family: inherit; }
 
-[Share](#/share)
+[Share](#)
 
-.series-list { list-style: none !important; padding-left: 0 !important; /\* Targets ONLY the bottom margin, preventing the top from overlapping the share button \*/ margin-bottom: -1em !important; font-size: 1.4em; line-height: 1.5; } .series-list li { margin-bottom: 0.5em; } .series-list .published-link { margin-bottom: 1.5em; } .series-list .forthcoming-label { /\* Restored your exact calculation \*/ font-size: calc(1em / 1.4); line-height: 1.7; color: #000000; display: block; } .series-list li:last-child { margin-bottom: 0; }
+// Find all elements with the 'custom-web-share' class document.querySelectorAll('.custom-web-share').forEach(function(element) { element.addEventListener('click', async function(event) { // Stop the browser from jumping to the top of the page event.preventDefault(); if (navigator.share) { try { await navigator.share({ title: document.title, url: window.location.href }); } catch (err) { console.log('Share cancelled', err); } } else { // Fallback for devices that don't support Web Share (like older desktop browsers) navigator.clipboard.writeText(window.location.href); alert('Link copied to clipboard!'); } }); }); .series-list { list-style: none !important; padding-left: 0 !important; /\* Targets ONLY the bottom margin, preventing the top from overlapping the share button \*/ margin-bottom: -1em !important; font-size: 1.4em; line-height: 1.5; } .series-list li { margin-bottom: 0.5em; } .series-list .published-link { margin-bottom: 1.5em; } .series-list .forthcoming-label { /\* Restored your exact calculation \*/ font-size: calc(1em / 1.4); line-height: 1.7; color: #000000; display: block; } .series-list li:last-child { margin-bottom: 0; }
 
 *   [What Is Belief?](https://www.derrickfarnell.site/what-is-belief)
 *   Next three articles:

@@ -19,7 +19,7 @@ This series concerns our belief of any kind of claim, however significant or mun
 
 Given that the psychological state of belief involves a claim, the following definition can seem as obvious as it is simple: considering a claim to be true. But although this definition can seem irrefutable, it's fatally flawed – as I’ll explain in the next article, on how beliefs form.
 
-[Share](#/share)
+[Share](#)
 
 Next article: How Beliefs Form – Part 1 (forthcoming)
 
@@ -29,7 +29,7 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
-You can also support my work just by [sharing this article](#/share).
+You can also support my work just by [sharing this article](#).
 
 ### Feedback
 
@@ -42,6 +42,8 @@ If referencing this article, you should include the date of reading, as the cont
 ### Article history
 
 Past versions of this article are available in the Internet Archive [here](https://web.archive.org/web/20260000000000*/https://www.derrickfarnell.site/what-is-belief) – and, for previous locations, [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/articles/how-belief-works/what-is-belief), [here](https://web.archive.org/web/20250000000000*/https://www.derrickfarnell.site/how-belief-works/what-is-belief) and [here](https://web.archive.org/web/20251001000000*/https://www.derrickfarnell.site/how-belief-works/a-note-on-the-term-belief). There's also [an archive of this article on GitHub](https://github.com/derrickfarnell/derrickfarnell.site-archive/commits/main/posts/what-is-belief.md).
+
+// Find all elements with the 'custom-web-share' class document.querySelectorAll('.custom-web-share').forEach(function(element) { element.addEventListener('click', async function(event) { // Stop the browser from jumping to the top of the page event.preventDefault(); if (navigator.share) { try { await navigator.share({ title: document.title, url: window.location.href }); } catch (err) { console.log('Share cancelled', err); } } else { // Fallback for devices that don't support Web Share (like older desktop browsers) navigator.clipboard.writeText(window.location.href); alert('Link copied to clipboard!'); } }); });
 
 Subscribe
 ---------

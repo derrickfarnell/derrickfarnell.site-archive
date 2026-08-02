@@ -23,13 +23,13 @@ This beautifully simple but powerful theory, so often misunderstood and misrepre
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
 
-[Share](#/share)
+[Share](#)
 
 ### Support my work
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
-You can also support my work just by [sharing this article](#/share).
+You can also support my work just by [sharing this article](#).
 
 ### Feedback
 
@@ -50,6 +50,8 @@ This article was inspired by the book [_The Moral Animal_](https://www.google.co
 My understanding of the theory of evolution by natural selection comes mainly from the books [_The Selfish Gene_](https://www.google.co.uk/books/edition/The_Selfish_Gene/WkHO9HI7koEC?hl=en&gbpv=0) and [_The Blind Watchmaker_](https://www.google.co.uk/books/edition/The_Blind_Watchmaker/zHc9PgAACAAJ?hl=en), both by Richard Dawkins.
 
 The point that evolution by natural selection is as natural as water flowing downhill comes from the book [_The Adapted Mind_](https://www.google.co.uk/books/edition/The_Adapted_Mind/SxX4gRzOS6oC?hl=en&gbpv=0), by Leda Cosmides and John Tooby.
+
+// Find all elements with the 'custom-web-share' class document.querySelectorAll('.custom-web-share').forEach(function(element) { element.addEventListener('click', async function(event) { // Stop the browser from jumping to the top of the page event.preventDefault(); if (navigator.share) { try { await navigator.share({ title: document.title, url: window.location.href }); } catch (err) { console.log('Share cancelled', err); } } else { // Fallback for devices that don't support Web Share (like older desktop browsers) navigator.clipboard.writeText(window.location.href); alert('Link copied to clipboard!'); } }); });
 
 Subscribe
 ---------
