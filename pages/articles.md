@@ -3,7 +3,7 @@ title: Articles
 slug: articles
 ---
 
-.article-index { list-style: none !important; padding: 0 !important; margin: 0 !important; font-size: 1.4em; } .article-index li { margin-bottom: 34px; } .article-index a { display: block; margin-bottom: 4px; line-height: 1.3; } .article-index span { font-size: 0.8em; line-height: 1.4; display: block; }
+.article-index { list-style: none !important; padding: 0 !important; margin: 0 !important; font-size: 1.4em; } .article-index li { margin-bottom: 50px; } .article-index a { display: block; margin-bottom: 4px; line-height: 1.3; } .article-index span { font-size: 0.8em; line-height: 1.4; display: block; }
 
 *   [How Belief Works](https://www.derrickfarnell.site/how-belief-works/) An ongoing series on the psychology of belief
 *   [The Theory of Evolution by Natural Selection in One Sentence](https://www.derrickfarnell.site/the-theory-of-evolution-by-natural-selection-in-one-sentence/) Darwin's beautifully simple idea

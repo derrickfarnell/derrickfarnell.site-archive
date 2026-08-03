@@ -3,18 +3,20 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
-![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/Copernican_heliocentrism_diagram-2-1.jpg)
+![Sixteenth-century scientific diagram consisting of concentric circles centred on a mark. Latin labels identify the mark as the Sun, the inner circles as the orbital paths of the known planets, and the outermost circle as the supposed spherical shell of stars.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/Copernican_heliocentrism_diagram-2-1.jpg)
+
+Nicolaus Copernicus's heliocentric (Sun-centred) model of the cosmos, from his 1543 treatise __De revolutionibus orbium coelestium__ (__On the Revolutions of the Heavenly Spheres__). This work sparked the scientific revolution that was the overturning of the prevailing geocentric (Earth-centred) model. Its publication is widely considered the birth of modern science. ([Source](https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg))
 
 'Belief … is the central problem in the analysis of mind.'  
 – philosopher Bertrand Russell
 
-The prevailing understanding of how belief works is wrong – and not just a bit wrong, but the-Sun-goes-around-the-Earth wrong
+The prevailing understanding of how belief works is wrong – and not just a bit wrong, but the-Sun-goes-around-the-Earth wrong.
 
 And just as the reality of the relationship between the Sun and the Earth had profound implications for our understanding of the cosmos, the reality of how belief works has profound implications for our understanding of the human mind. But this reality is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
 
 This ongoing series reveals the truth about how belief works and explores its implications.
 
-/\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 2em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; font-family: inherit; }
+/\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 3em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; font-family: inherit; }
 
 [Share](#)
 
