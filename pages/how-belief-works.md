@@ -3,7 +3,9 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
-![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/garrett-jackson--jc97q0cHTg-unsplash.jpg)
+![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/abdullah-ali-EVymnlda9I8-unsplash--3-.jpg)
+
+Photo by [abdullah ali](https://unsplash.com/@adbullahx)
 
 'Belief … is the central problem in the analysis of mind.'  
 – philosopher [Bertrand Russell](https://www.gutenberg.org/files/2529/2529-h/2529-h.htm#link2H_4_0015)

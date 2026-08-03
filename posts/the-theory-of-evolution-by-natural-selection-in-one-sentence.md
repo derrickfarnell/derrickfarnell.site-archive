@@ -21,7 +21,7 @@ This beautifully simple but powerful theory, so often misunderstood and misrepre
 
 ![Photo of a scene inside a tropical forest.](https://images.unsplash.com/photo-1580207837202-7a1ff3cb12f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhbyUyMG5hbmd8ZW58MHx8fHwxNzgzNzYwNzM4fDA&ixlib=rb-4.1.0&q=80&w=2000)
 
-Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
+Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
 [Share](#)
 
