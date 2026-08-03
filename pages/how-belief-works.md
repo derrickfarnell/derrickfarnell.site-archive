@@ -3,6 +3,8 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
+![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/Copernican_heliocentrism_diagram-2-1.jpg)
+
 'Belief … is the central problem in the analysis of mind.'  
 – philosopher Bertrand Russell
 
