@@ -3,7 +3,7 @@ title: The Theory of Evolution by Natural Selection in One Sentence
 slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 ---
 
-![Sepia photo of Charles Darwin](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/07/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
+![Sepia photo of Charles Darwin as an old man, with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/07/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
 Charles Darwin (1809–1882)
 
@@ -19,7 +19,7 @@ Thus, the steady accumulation of innumerable small changes over billions of year
 
 This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how the appearance of design in living things arose from a mindless process that's as natural as water flowing downhill.
 
-![Photo of a scene inside a tropical forest](https://images.unsplash.com/photo-1580207837202-7a1ff3cb12f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhbyUyMG5hbmd8ZW58MHx8fHwxNzgzNzYwNzM4fDA&ixlib=rb-4.1.0&q=80&w=2000)
+![Photo of a scene inside a tropical forest.](https://images.unsplash.com/photo-1580207837202-7a1ff3cb12f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhbyUyMG5hbmd8ZW58MHx8fHwxNzgzNzYwNzM4fDA&ixlib=rb-4.1.0&q=80&w=2000)
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
 

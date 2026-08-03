@@ -5,10 +5,10 @@ slug: how-belief-works
 
 ![Sixteenth-century scientific diagram consisting of concentric circles centred on a mark. Latin labels identify the mark as the Sun, the inner circles as the orbital paths of the known planets, and the outermost circle as the supposed spherical shell of stars.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/Copernican_heliocentrism_diagram-2-1.jpg)
 
-Nicolaus Copernicus's heliocentric (Sun-centred) model of the cosmos, from his 1543 treatise __De revolutionibus orbium coelestium__ (__On the Revolutions of the Heavenly Spheres__). This work sparked the scientific revolution that was the overturning of the prevailing geocentric (Earth-centred) model. Its publication is widely considered the birth of modern science. ([Source](https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg))
+Nicolaus Copernicus's heliocentric (Sun-centred) model of the cosmos, from his 1543 treatise __De revolutionibus orbium coelestium__ (__On the Revolutions of the Heavenly Spheres__). The book sparked a scientific revolution: the overturning of the prevailing geocentric (Earth-centred) model. ([Image source](https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg))
 
 'Belief … is the central problem in the analysis of mind.'  
-– philosopher Bertrand Russell
+– philosopher [Bertrand Russell](https://www.gutenberg.org/files/2529/2529-h/2529-h.htm#link2H_4_0015)
 
 The prevailing understanding of how belief works is wrong – and not just a bit wrong, but the-Sun-goes-around-the-Earth wrong.
 
