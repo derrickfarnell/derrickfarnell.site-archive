@@ -3,7 +3,7 @@ title: The Theory of Evolution by Natural Selection in One Sentence
 slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 ---
 
-![Sepia photo of Charles Darwin as an old man, with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/07/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
+![Sepia photo of Charles Darwin as an old man, with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
 Charles Darwin (1809–1882)
 
