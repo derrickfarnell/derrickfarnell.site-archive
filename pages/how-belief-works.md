@@ -3,7 +3,7 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
-![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/abdullah-ali-EVymnlda9I8-unsplash--3-.jpg)
+![A high-contrast black-and-white close-up photo of a young man's eye staring at the camera.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/abdullah-ali-EVymnlda9I8-unsplash--3-.jpg)
 
 Photo by [abdullah ali](https://unsplash.com/@adbullahx)
 
