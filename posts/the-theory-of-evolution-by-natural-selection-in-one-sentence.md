@@ -23,9 +23,15 @@ This beautifully simple but powerful theory, so often misunderstood and misrepre
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
+.cf-desk-thumbnail { float: right; width: 220px; margin: 0.5em 0 1em 1.5em; } .cf-desk-thumbnail img { width: 100%; height: auto; cursor: zoom-in; border-radius: 6px; } .cf-desk-thumbnail figcaption { font-size: 0.85em; text-align: center; margin-top: 0.6em; color: inherit; opacity: 0.8; font-style: italic; } .cf-clear-both { clear: both; } /\* Mobile adjustments \*/ @media (max-width: 600px) { .cf-desk-thumbnail { float: none; /\* Prevents text from squishing on small screens \*/ width: 100%; max-width: 280px; display: block; /\* Aligns left and creates equal gaps above and below the image \*/ margin: 1.2em 0 1.2em 0; } }
+
 [Share](#)
 
 ### Support my work
+
+![A laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/PXL_20260804_115522839-EDIT2-1.jpg)
+
+My home desk
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
