@@ -3,7 +3,7 @@ title: The Theory of Evolution by Natural Selection in One Sentence
 slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 ---
 
-![A sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
+![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
 Charles Darwin (1809–1882)
 
@@ -29,9 +29,9 @@ Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
 ### Support my work
 
-![A laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/size/w1000/2026/08/PXL_20260804_115522839-EDIT2-1.jpg)
+![Photo of a home desk with a laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/size/w1000/2026/08/PXL_20260804_115522839-EDIT2-1.jpg)
 
-My home desk
+Where I do my research and writing
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
