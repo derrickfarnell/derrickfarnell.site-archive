@@ -17,7 +17,7 @@ We usually think of a claim as something expressed by someone, whether it's spok
 
 Also note that the term _belief_ can refer to either the psychological state or the believed claim. That is, it can refer to either believing something or something believed. In the first sense, my belief _There's no milk in the fridge_ is a different thing from someone else's belief _There's no milk in the fridge_, regarding the same fridge, because they're separate psychological states existing in different heads. But in the second sense, they're the same thing.
 
-So the term _mundane belief_ can refer to either believing a mundane claim or a mundane claim that's believed – and likewise for the term _significant belief_. However, we often use the term _belief_ by itself to refer to a significant claim that's believed, whether moral, political, religious, historical, philosophical or scientific. For example, when we refer to defending our beliefs, we're referring to defending particular significant claims we believe.
+So the term _mundane belief_ can refer to either believing a mundane claim or a mundane claim that's believed – and likewise for the term _significant belief_. However, we often use the term _belief_ by itself to mean a significant claim that's believed, whether moral, political, religious, historical, philosophical or scientific. For example, when we refer to defending our beliefs, we're referring to defending particular significant claims we believe.
 
 This series concerns our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs that I’m in my flat, that I'm sitting on a chair at my desk, that I'm typing these words, that it's Tuesday morning, that it’s sunny outside, and that I went for a hike along a river yesterday.
 
@@ -35,7 +35,7 @@ Next article: How Beliefs Form – Part 1 (forthcoming)
 
 ![Photo of a home desk with a laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/size/w1000/2026/08/PXL_20260804_115522839-EDIT2-1.jpg)
 
-Where I do my research and writing
+My workplace
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
