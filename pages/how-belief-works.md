@@ -3,9 +3,7 @@ title: How Belief Works
 slug: how-belief-works
 ---
 
-![A high-contrast black-and-white close-up photo of a young man's eye staring at the camera.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/abdullah-ali-EVymnlda9I8-unsplash--3-.jpg)
-
-Photo by [abdullah ali](https://unsplash.com/@adbullahx)
+![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/Gemini_Generated_Image_rqj8h8rqj8h8rqj8.png)
 
 'Belief … is the central problem in the analysis of mind.'  
 – philosopher [Bertrand Russell](https://www.gutenberg.org/files/2529/2529-h/2529-h.htm#link2H_4_0015)
@@ -31,6 +29,10 @@ This ongoing series reveals the truth about how belief works and explores its im
 _Previously published versions of these three articles are available on_ [_a live archive copy of this site_](https://sites.google.com/view/derrickfarnell/articles/how-belief-works)_. Although I think the core logic in these versions is sound, I decided that the form of the arguments presenting that logic needs improvement, along with the writing._
 
 _The standalone article \[Article X\] will eventually be incorporated into this series._
+
+![A high-contrast black-and-white close-up photo of a young man's eye staring at the camera.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/abdullah-ali-EVymnlda9I8-unsplash--3-.jpg)
+
+Photo by [abdullah ali](https://unsplash.com/@adbullahx)
 
 Subscribe
 ---------
