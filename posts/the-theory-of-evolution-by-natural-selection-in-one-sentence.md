@@ -3,9 +3,9 @@ title: The Theory of Evolution by Natural Selection in One Sentence
 slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 ---
 
-![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
+![Photo of scene inside a tropical forest.](https://images.unsplash.com/photo-1580207837202-7a1ff3cb12f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhbyUyMG5hbmd8ZW58MHx8fHwxNzgzNzYwNzM4fDA&ixlib=rb-4.1.0&q=80&w=2000)
 
-Charles Darwin (1809–1882)
+Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
 Charles Darwin's theory of evolution by natural selection, published in 1859, explains that all of life on Earth today evolved over the eons from common ancestors. And the essence of this grand theory can be captured in a single sentence:
 
@@ -19,9 +19,9 @@ Thus, the steady accumulation of innumerable small changes over billions of year
 
 This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how the appearance of design in living things arose from a mindless process that's as natural as water flowing downhill.
 
-![Photo of scene inside a tropical forest.](https://images.unsplash.com/photo-1580207837202-7a1ff3cb12f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhbyUyMG5hbmd8ZW58MHx8fHwxNzgzNzYwNzM4fDA&ixlib=rb-4.1.0&q=80&w=2000)
+![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
-Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
+Charles Darwin (1809–1882)
 
 .cf-desk-thumbnail { float: right; width: 220px; margin: 0.4em 0 1em 1.5em; } .cf-desk-thumbnail .kg-card { margin: 0; } .cf-desk-thumbnail img { width: 100%; height: auto; border-radius: 6px; cursor: zoom-in; } .cf-desk-thumbnail figcaption { font-size: 0.85em; text-align: center; margin-top: 0.6em; color: inherit; opacity: 0.8; font-style: italic; } .cf-clear-both { clear: both; } /\* Mobile adjustments \*/ @media (max-width: 600px) { .cf-desk-thumbnail { float: none; width: 100%; max-width: 280px; display: block; margin: 1.5em auto 1em 0; } }
 
@@ -31,7 +31,7 @@ Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
 ![Photo of a home desk with a laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/size/w1000/2026/08/PXL_20260804_115522839-EDIT2-1.jpg)
 
-My workplace
+My workspace
 
 My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 

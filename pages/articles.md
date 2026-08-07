@@ -7,14 +7,14 @@ slug: articles
 
 *   [
     
-    ![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/size/w1600/2026/08/abdullah-ali-EVymnlda9I8-unsplash--3-.jpg)
+    ![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/size/w1600/2026/08/Gemini_Generated_Image_9d0h839d0h839d0h-3.jpg)
     
     How Belief Works An ongoing series on the psychology of belief
     
     ](https://www.derrickfarnell.site/how-belief-works/)
 *   [
     
-    ![](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
+    ![](https://images.unsplash.com/photo-1580207837202-7a1ff3cb12f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhbyUyMG5hbmd8ZW58MHx8fHwxNzgzNzYwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1600)
     
     The Theory of Evolution by Natural Selection in One Sentence Darwin's beautifully simple idea
     
