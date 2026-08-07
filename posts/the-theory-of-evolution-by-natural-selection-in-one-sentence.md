@@ -51,7 +51,7 @@ Past versions of this article are available in the Internet Archive [here](https
 
 ### Acknowledgments
 
-This article was inspired by the book [_The Moral Animal_](https://www.google.co.uk/books/edition/The_Moral_Animal/MuI_DVZ1Xo8C?hl=en&gbpv=0&kptab=overview) by Robert Wright, which presents the theory of evolution by natural selection in one sentence in chapter 1. My presentation of the theory in one sentence was based on Wright’s.
+This article was inspired by the book [_The Moral Animal_](https://www.google.co.uk/books/edition/The_Moral_Animal/MuI_DVZ1Xo8C?hl=en&gbpv=0&kptab=overview) by Robert Wright, which presents the theory of evolution by natural selection in one sentence in the first chapter. My presentation of the theory in one sentence was based on Wright’s.
 
 My understanding of the theory of evolution by natural selection comes mainly from the books [_The Selfish Gene_](https://www.google.co.uk/books/edition/The_Selfish_Gene/WkHO9HI7koEC?hl=en&gbpv=0) and [_The Blind Watchmaker_](https://www.google.co.uk/books/edition/The_Blind_Watchmaker/zHc9PgAACAAJ?hl=en), both by Richard Dawkins.
 
