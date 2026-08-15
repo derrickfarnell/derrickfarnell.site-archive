@@ -13,7 +13,7 @@ We all know what it means to believe something, from the significant, such as th
 
 Any attempt must include that it's a psychological state involving a claim. In the above examples it's believed that _humans are apes_ and that _there's no milk in the fridge_.
 
-Given that the word _claim_ is both a noun – 'a claim' – and a verb – 'to claim' – we often think of a claim as something _expressed_ by someone, whether verbally or in writing. However, a believed claim hasn't necessarily been expressed by anyone. Upon looking inside our fridge, we can form the belief _There's no milk in the fridge_ without anyone, including ourselves, _expressing_ on this occasion that there's no milk in the fridge.
+We often think of a claim as something _expressed_ by someone, whether verbally or in writing. However, a believed claim hasn't necessarily been expressed by anyone. Upon looking inside a fridge, we can form the belief _There's no milk in the fridge_ without anyone, including ourselves, _expressing_ on this occasion that there's no milk in the fridge concerned.
 
 Also note that the term _belief_ can refer to either the psychological state or the believed claim. That is, it can refer to either believing something or something believed. In the first sense, my belief _There's no milk in the fridge_ is a different thing from someone else's belief _There's no milk in the fridge_, regarding the same fridge, because they're separate psychological states existing in different heads. But in the second sense, they're the same thing.
 
