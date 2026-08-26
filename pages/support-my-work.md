@@ -3,7 +3,7 @@ title: Support my work
 slug: support-my-work
 ---
 
-![Photo of a home desk with a laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/PXL_20260804_115522839-EDIT2-2-1.jpg)
+![Photo of a home desk with a laptop connected to a monitor.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/PXL_20260804_115522839-EDIT2-3.jpg)
 
 My workspace
 
