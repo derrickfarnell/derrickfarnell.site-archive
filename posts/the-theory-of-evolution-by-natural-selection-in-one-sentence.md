@@ -33,7 +33,7 @@ Charles Darwin (1809–1882)
 
 My workspace
 
-My dream is to work full time as an independent researcher and a writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
+My dream is to work full time as an independent researcher and writer – I currently rely on two part-time jobs. However, I also want my writings to remain free and ad-free. So please consider helping fund my work – including helping me pay for books and online resources – by making a [one-time or monthly donation](https://www.derrickfarnell.site/donation-form) of your choice.
 
 You can also support my work just by [sharing this article](#).
 
