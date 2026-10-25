@@ -14,7 +14,7 @@ The prevailing understanding of how belief works is wrong – and not just a bit
 
 And just as the truth about the relationship between the Sun and the Earth transformed our understanding of the cosmos, the truth about how belief works will transform our understanding of the human mind. But this truth is so counterintuitive that it can, ironically, seem unbelievable – as did the idea that the Earth isn’t the stationary centre of the universe but sweeps around the Sun while spinning about an axis.
 
-This ongoing series reveals how belief actually works and explores its implications.
+This ongoing series reveals how belief actually works and explores its profound implications.
 
 /\* Strips Ghost's native bottom spacing from this card's wrapper \*/ .kg-card:has(.isolated-share-block) { margin-bottom: 0 !important; padding-bottom: 0 !important; } .isolated-share-block { text-align: center; margin-top: 3em; /\* A negative margin pulls the NEXT element up to close the gap \*/ margin-bottom: -1.5em !important; padding-bottom: 0 !important; } .cf-share-btn { color: #151515 !important; text-decoration: none !important; box-shadow: none !important; display: inline-block; font-family: inherit; }
 
