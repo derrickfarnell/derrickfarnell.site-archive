@@ -21,7 +21,7 @@ So the term _mundane belief_ can refer to either believing a mundane claim or a 
 
 This series concerns our belief of any kind of claim, however significant or mundane. Other examples of mundane beliefs are my current beliefs _I'm in my flat_, _I'm sitting on a chair at my desk_, _I'm typing these words_, _It's Tuesday morning_, _It's sunny outside_, and _I went for a hike along a river yesterday_.
 
-Given that the psychological state of belief involves a claim, the following definition can seem as obvious as it is simple: considering a claim to be true. But although this definition can seem irrefutable, it's fatally flawed – as I'll explain in the next article, on how beliefs form.
+Given that the psychological state of belief involves a claim, what distinguishes it from other psychological states involving a claim, such as hoping, fearing, doubting or imagining that there's no milk in the fridge? The following answer can seem as obvious as it is simple: belief is considering a claim to be true. But although this definition can seem irrefutable, it's fatally flawed – as I'll explain in the next article, on how beliefs form.
 
 .cf-desk-thumbnail { float: right; width: 220px; margin: 0.4em 0 1em 1.5em; } .cf-desk-thumbnail .kg-card { margin: 0; } .cf-desk-thumbnail img { width: 100%; height: auto; border-radius: 6px; cursor: zoom-in; } .cf-desk-thumbnail figcaption { font-size: 0.85em; text-align: center; margin-top: 0.6em; color: inherit; opacity: 0.8; font-style: italic; } .cf-clear-both { clear: both; } /\* Mobile adjustments \*/ @media (max-width: 600px) { .cf-desk-thumbnail { float: none; width: 100%; max-width: 280px; display: block; margin: 1.5em auto 1em 0; } }
 
