@@ -41,11 +41,11 @@ You can also support my work just by [sharing this article](#).
 
 ### Feedback
 
-I view my published writings as still works in progress, and welcome feedback about both the writing and its content, _however minor_. I also welcome feedback about the website. You can comment below or [email me](https://www.derrickfarnell.site/contact-me/).
+I view my published writings as still works in progress and welcome feedback on the writing or the content, _however minor_. I also welcome feedback on the website. You can comment below or [email me](https://www.derrickfarnell.site/contact-me/).
 
 ### Referencing this article
 
-If referencing this article, you should include the date of reading, as the content can change. Also, you can [save the current version in the Internet Archive](https://web.archive.org/save) and then link to the archived copy.
+You should include the date of reading, as the content can change. Also, you can [save the current version in the Internet Archive](https://web.archive.org/save) and then link to the archived copy.
 
 ### Article history
 
