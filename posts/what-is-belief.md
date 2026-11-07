@@ -17,7 +17,7 @@ The term _claim_ can be either a noun, as in _a claim_, or a verb, as in _to cla
 
 The term _belief_ likewise has two senses. It can mean either the psychological state or the believed claim – that is, believing something or something believed. Suppose two people look in the same fridge at the same time and both form the belief _There's no milk in the fridge_. In the first sense, their beliefs are different things: separate psychological states in different heads. But in the second sense, their beliefs are the same thing: the same claim.
 
-Also, _belief_ by itself often means a significant belief, whether moral, political, religious, historical, philosophical or scientific. For example, defending our beliefs usually means either defending particular significant claims we believe, or defending our right to believe and act on them. This series, though, is about believing any claim, significant or mundane.
+Also, _belief_ by itself often means a significant belief, whether moral, political, religious, historical, philosophical or scientific. For example, _defending our beliefs_ usually means either defending particular significant claims we believe, or defending our right to believe and act on them. This series, though, is about believing any claim, significant or mundane.
 
 Belief isn't the only psychological state involving a claim: we can also hope, fear, doubt or imagine that there's no milk in the fridge. So what distinguishes belief? One answer can seem as irrefutable as it is simple: belief is considering a claim to be true. But this definition is fatally flawed – as I'll explain in the next article.
 
