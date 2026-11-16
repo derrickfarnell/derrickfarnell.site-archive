@@ -13,7 +13,7 @@ We all know what it means to believe something. Indeed, belief is one of the mos
 
 Any definition of belief must recognise that it's a psychological state involving a claim – _what_ is believed. For example, we may believe that _humans are apes_, or that _there's no milk in the fridge_.
 
-The term _claim_ can be either a noun, as in _a claim_, or a verb, as in _to claim_. Whereas to claim something is to assert it, whether in speech or writing, a claim needn't have been asserted. For instance, if we invent a claim and present it to others _as_ invented, we haven't asserted it. And a claim can be believed without anyone asserting it at the time, not even the believer, as when we look in our fridge and form the belief _There's no milk in the fridge_.
+The term _claim_ can be either a noun, as in _a claim_, or a verb, as in _to claim_. Whereas to claim something is to assert it, whether in speech or writing, a claim needn't have been asserted. For instance, if we invent a claim and present it to others _as_ invented, we haven't asserted it. Similarly, a claim can be believed without anyone asserting it at the time, not even the believer, as when we look in our fridge and form the belief _There's no milk in the fridge_.
 
 The term _belief_ likewise has two senses. It can mean either the psychological state or the believed claim – that is, believing something or something believed. Suppose two people look in the same fridge at the same time and both form the belief _There's no milk in the fridge_. In the first sense, their beliefs are different things: separate psychological states in different heads. But in the second sense, their beliefs are the same thing: the same claim.
 
