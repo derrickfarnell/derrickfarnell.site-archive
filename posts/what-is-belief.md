@@ -17,7 +17,7 @@ Claims are often asserted, whether in speech, writing or another form of communi
 
 As for the psychological state itself, it needn't be conscious. When we form the belief _There's no milk in the fridge_, we believe this claim consciously, which involves thinking _There's no milk in the fridge_. But the belief is then stored in our memory, so we can still hold it after we've stopped thinking this claim.
 
-The word _belief_ actually has two senses: the psychological state and the believed claim. In other words, believing something and something believed. Suppose two people look in a fridge together and both form the belief _There's no milk in the fridge_. In the first sense, their beliefs are different things: psychological states in different heads. But in the second sense, their beliefs are the same thing: the claim they both believe.
+The word _belief_ actually has two senses: the psychological state and the claim that's believed. In other words, believing something and something believed. Suppose two people look in a fridge together and both form the belief _There's no milk in the fridge_. In the first sense, their beliefs are different things: psychological states in different heads. But in the second sense, their beliefs are the same thing: the claim they both believe.
 
 In many contexts, _belief_ specifically means a significant belief, such as a moral, political or religious one. For example, _defending our beliefs_ usually means either defending particular significant claims we believe or defending our right to believe and act on them. This series, though, is about believing any claim, significant or mundane.
 
