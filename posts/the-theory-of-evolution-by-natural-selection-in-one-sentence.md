@@ -7,17 +7,17 @@ slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
-Charles Darwin's theory of evolution by natural selection, published in 1859, explains how life on Earth evolved over the eons from its simple beginnings into the vast array of living things we see today. And the essence of this grand theory can be captured in a single sentence:
+Charles Darwin's theory of evolution by natural selection explains how life on Earth evolved over the eons from its simple beginnings into the vast array of living things we see today. And the essence of this grand theory can be captured in a single sentence:
 
 _Within a species there's always slight random variation in the hereditary traits of its members, and given the struggle to survive and reproduce, those variations that happen to be more conducive to doing so than others will naturally tend to become widespread in the species, with such small changes accumulating over countless generations._
 
 So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations. Unknown in Darwin's time, the ultimate source of the ever-present random variation – the fuel of this process – is the continuous occurrence of random genetic mutations. These have several causes, including DNA copying errors and natural radiation.
 
-How conducive a variation is to survival and reproduction depends on the environment in which the members of the species are living. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
+How conducive a variation is to survival and reproduction depends on the environment in which the members of the species are living, including the other organisms around them. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions, with no interbreeding between them to mix those changes back together. But even when their environments are similar, each population will have its own random mutations for natural selection to work on, so the two will still gradually evolve apart. Either way, the populations may eventually diverge so much that, even if they came back into contact, they'd no longer interbreed, or couldn't produce fertile offspring if they did, thereby becoming separate species.
 
-Thus, the steady accumulation of innumerable small changes over billions of years has led to the extraordinary complexity and diversity of today's plants and animals.
+Thus, the accumulation of innumerable small changes over billions of years has led to the extraordinary complexity and diversity of life on Earth today, from bacteria to blue whales.
 
-This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how the appearance of design in living things arose from a mindless process that's as natural as water flowing downhill.
+This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things came to be so well fitted to their ways of life that they appear to have been designed – and how that appearance arose from a mindless process that's as natural as water flowing downhill.
 
 ![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
