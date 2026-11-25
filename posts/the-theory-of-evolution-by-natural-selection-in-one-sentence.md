@@ -7,11 +7,11 @@ slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
-Charles Darwin's theory of evolution by natural selection, published in 1859, explains that all of life on Earth today evolved over the eons from common ancestors. And the essence of this grand theory can be captured in a single sentence:
+Charles Darwin's theory of evolution by natural selection, published in 1859, explains how life on Earth evolved over the eons from its simple beginnings into the vast array of living things we see today. And the essence of this grand theory can be captured in a single sentence:
 
-_Within a species there's always slight random variation in the hereditary traits of its members, and given the competition to survive and reproduce, those variations that happen to be most conducive to doing so will naturally tend to become widespread in the species._
+_Within a species there's always slight random variation in the hereditary traits of its members, and given the struggle to survive and reproduce, those variations that happen to be more conducive to doing so than others will naturally tend to become widespread in the species, with such small changes accumulating over countless generations._
 
-So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations. And the continuous occurrence of random gene mutations means that random variation – the fuel of this process – is ever-present. These mutations have several causes, including gene copying errors.
+So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations. Unknown in Darwin's time, the ultimate source of the ever-present random variation – the fuel of this process – is the continuous occurrence of random genetic mutations. These have several causes, including DNA copying errors and natural radiation.
 
 How conducive a variation is to survival and reproduction depends on the environment in which the members of the species are living. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions. And they may eventually diverge so much that they can no longer interbreed, thereby becoming separate species.
 
