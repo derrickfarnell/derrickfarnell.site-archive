@@ -7,19 +7,19 @@ slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
-Charles Darwin's theory of evolution by natural selection explains how life on Earth developed over the eons from simple single-celled organisms into the vast array of living things we see today. And its essence can be captured in a single sentence:
+Charles Darwin's theory of evolution by natural selection explains how today's vast array of living things developed from simple single-celled organisms. And its essence can be captured in a single sentence:
 
-_Within any population of a single type of living thing, there's always slight random variation in the hereditary traits of its members, and those variations that happen to help survival and reproduction more than others will naturally tend to become widespread in the population, slightly changing the type of living thing, with such small changes accumulating over countless generations._
+_Within any population of one type of living thing, there's always slight random variation in its members' hereditary traits, and the variations that happen to help survival and reproduction more than others naturally tend to become widespread in the population, slightly changing the type of living thing, with such changes accumulating over countless generations._
 
-So evolution by natural selection is a process in which nature _non_\-randomly 'selects' among random variations. And because these small changes to the type of living thing are each immediately useful, they can accumulate into structures as complex as the eye.
+So evolution by natural selection is a process in which nature _non_\-randomly 'selects' among random variations. And the small changes to the type of living thing can accumulate into structures as complex as the eye, as long as each is immediately useful.
 
-The ultimate source of the ever-present variation – the fuel of the whole process – is something unknown in Darwin's time: genetic mutations, which occur continually and at random. They have several causes, including errors in copying DNA when cells divide, and natural radiation.
+The ultimate source of the variation – the fuel of the process – is something unknown in Darwin's time: genetic mutations, which occur continually and at random. They have several causes, including errors in copying DNA when cells divide, and natural radiation.
 
-How much a variation helps survival and reproduction depends on the population's environment, including the other organisms living alongside it. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions, with no interbreeding to work against this. But even when their environments are similar, each population has its own random mutations for natural selection to act on, so the two still gradually evolve apart. Either way, the populations may eventually diverge so much that they become separate species.
+How much a variation helps survival and reproduction depends on the population's environment, which includes other types of living things. So when a population becomes split in two – perhaps by a mountain range, an ocean or simply distance – and the two face different environments, natural selection leads them to evolve in different directions, with no interbreeding to counter this. But even in similar environments, each population has its own mutations for natural selection to act on, so the two still gradually evolve apart. Either way, they may eventually diverge into separate species.
 
-Over billions of years, innumerable small changes have added up to the extraordinary complexity and diversity of life on Earth today, from bacteria to blue whales.
+Over billions of years, innumerable small changes have added up to the extraordinary complexity and diversity of life on Earth, from bacteria to blue whales.
 
-This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things came to be so well fitted to their ways of life. And it shows that what was long thought to have been designed actually arose from a mindless process that's as natural as water flowing downhill.
+This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things became so well fitted to their ways of life. And it shows that what was long thought designed arose from a mindless process as natural as water flowing downhill.
 
 ![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
