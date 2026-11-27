@@ -7,19 +7,19 @@ slug: the-theory-of-evolution-by-natural-selection-in-one-sentence
 
 Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
-Charles Darwin's theory of evolution by natural selection explains how life on Earth evolved over the eons from simple single-celled organisms into the vast array of living things we see today. And the essence of this grand theory can be captured in a single sentence:
+Charles Darwin's theory of evolution by natural selection explains how life on Earth developed over the eons from simple single-celled organisms into the vast array of living things we see today. And its essence can be captured in a single sentence:
 
-_Within any population of a single type of living thing there's always slight random variation in the hereditary traits of its members, and those variations that happen to be more conducive to survival and reproduction than others will naturally tend to become widespread in the population, with such small changes accumulating over countless generations._
+_Within any population of a single type of living thing, there's always slight random variation in the hereditary traits of its members, and those variations that happen to help survival and reproduction more than others will naturally tend to become widespread in the population, slightly changing the type of living thing, with such small changes accumulating over countless generations._
 
-So the process of evolution by natural selection involves the _non_\-random 'selection' by nature of particular random variations. And because each of these small changes is immediately useful, they can accumulate into structures as complex as the eye.
+So evolution by natural selection is a process in which nature _non_\-randomly 'selects' among random variations. And because these small changes to the type of living thing are each immediately useful, they can accumulate into structures as complex as the eye.
 
-Unknown in Darwin's time, the ultimate source of the ever-present random variation – the fuel of this process – is the continuous occurrence of random genetic mutations. These have several causes, including errors in copying DNA for cell division, and natural radiation.
+The ultimate source of the ever-present variation – the fuel of the whole process – is something unknown in Darwin's time: genetic mutations, which occur continually and at random. They have several causes, including errors in copying DNA when cells divide, and natural radiation.
 
-How conducive a variation is to survival and reproduction depends on the environment in which the members of the population are living, including the other organisms around them. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions, with no interbreeding between them to mix those changes back together. But even when their environments are similar, each population will have its own random mutations for natural selection to work on, so the two will still gradually evolve apart. Either way, the populations may eventually diverge so much that they become separate species.
+How much a variation helps survival and reproduction depends on the population's environment, including the other organisms living alongside it. So when the members become separated into two populations – perhaps by a mountain range or an ocean, or simply distance – and face different environments, natural selection leads the populations to evolve in different directions, with no interbreeding to work against this. But even when their environments are similar, each population has its own random mutations for natural selection to act on, so the two still gradually evolve apart. Either way, the populations may eventually diverge so much that they become separate species.
 
-Thus, the accumulation of innumerable small changes over billions of years has led to the extraordinary complexity and diversity of life on Earth today, from bacteria to blue whales.
+Over billions of years, innumerable small changes have added up to the extraordinary complexity and diversity of life on Earth today, from bacteria to blue whales.
 
-This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things came to be so well fitted to their ways of life. And it shows that what was long taken to have been designed actually arose from a mindless process that's as natural as water flowing downhill.
+This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things came to be so well fitted to their ways of life. And it shows that what was long thought to have been designed actually arose from a mindless process that's as natural as water flowing downhill.
 
 ![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
