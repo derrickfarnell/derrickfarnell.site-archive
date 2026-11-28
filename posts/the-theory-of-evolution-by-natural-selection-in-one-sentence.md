@@ -9,17 +9,17 @@ Photo by [Nick van den Berg](https://unsplash.com/@nngvandenberg)
 
 Charles Darwin's theory of evolution by natural selection explains how today's vast array of living things developed from simple single-celled organisms. And its essence can be captured in a single sentence:
 
-_Within any population of one type of living thing, there's always slight random variation in its members' hereditary traits, and the variations that happen to help survival and reproduction more than others naturally tend to become widespread in the population, slightly changing the type of living thing, with such changes accumulating over countless generations._
+_Within any population of one type of living thing, there's always slight random variation in its members' hereditary traits, and the variations that happen to aid survival and reproduction, and to do so more than others, naturally tend to become widespread in the population, slightly changing the type of living thing, with such changes accumulating over countless generations._
 
-So evolution by natural selection is a process in which nature _non_\-randomly 'selects' among random variations. And the small changes to the type of living thing can accumulate into structures as complex as the eye, as long as each is immediately useful.
+So evolution by natural selection is a process in which nature _non_\-randomly 'selects' among random variations. And the small changes to the type of living thing can accumulate into structures as complex as the eye, as long as each change is immediately useful.
 
-The ultimate source of the variation – the fuel of the process – is something unknown in Darwin's time: genetic mutations, which occur continually and at random. They have several causes, including errors in copying DNA when cells divide, and natural radiation.
+The ultimate source of the variation – the fuel of the process – is something unknown in Darwin's time: genetic mutations, which occur continually and at random. Their most common cause is errors in copying DNA for cell division, but there are others, such as natural radiation.
 
-How much a variation helps survival and reproduction depends on the population's environment, which includes other types of living things. So when a population becomes split in two – perhaps by a mountain range, an ocean or simply distance – and the two face different environments, natural selection leads them to evolve in different directions, with no interbreeding to counter this. But even in similar environments, each population has its own mutations for natural selection to act on, so the two still gradually evolve apart. Either way, they may eventually diverge into separate species.
+How much a variation aids survival and reproduction depends on the population's environment, which includes other types of living things. So when a population becomes split in two – perhaps by a mountain range, an ocean or simply distance – and the two groups face different environments, natural selection leads them to evolve in different directions, with no interbreeding to counter the divergence. But even in similar environments, each group has its own mutations for natural selection to act on, so the two still gradually evolve apart. Either way, they may eventually diverge into separate species.
 
 Over billions of years, innumerable small changes have added up to the extraordinary complexity and diversity of life on Earth, from bacteria to blue whales.
 
-This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things became so well fitted to their ways of life. And it shows that what was long thought designed arose from a mindless process as natural as water flowing downhill.
+This beautifully simple but powerful theory, so often misunderstood and misrepresented, explains how living things became so well fitted to their ways of life. And it shows that what was long thought to be designed arose from a mindless process as natural as water flowing downhill.
 
 ![Sepia portrait of an old man with a large white beard.](https://storage.ghost.io/c/86/cd/86cd0066-a957-488f-b0e4-a5bc82f2723d/content/images/2026/08/1_GzO33cwrGNl59BiQNmj5OQ-1.jpeg)
 
